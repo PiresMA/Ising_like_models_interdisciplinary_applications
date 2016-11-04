@@ -24,6 +24,8 @@ Geophysics:
 
 
 Biology:
+* Weber, Marc, and Javier Buceta. "The cellular Ising model: a framework for phase transitions in multicellular environments." Journal of The Royal Society Interface 13.119 (2016): 20151092.
+* Vtyurina, Natalia N., et al. "Hysteresis in DNA compaction by Dps is described by an Ising model." Proceedings of the National Academy of Sciences (2016): 201521241.
 * Muñoz, Victor. "What can we learn about protein folding from Ising-like models?." Current opinion in structural biology 11.2 (2001): 212-216.
 * Liu, Yi, and James P. Dilger. "Application of the one-and two-dimensional Ising models to studies of cooperativity between ion channels." Biophysical journal 64.1 (1993): 26.
 * Rice, John Jeremy, et al. "Ising model of cardiac thin filament activation with nearest-neighbor cooperative interactions." Biophysical journal 84.2 (2003): 897-909.
@@ -54,3 +56,8 @@ Complex Systems(General Things) :
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
 * del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
 * Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
+* Suzuki, Hideyuki, Jun-ichi Imura, and Kazuyuki Aihara. "Chaotic Ising-like dynamics in traffic signals." Scientific reports 3 (2013): 1127.
+
+Models inspired by the Ising model
+* Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
+* 
