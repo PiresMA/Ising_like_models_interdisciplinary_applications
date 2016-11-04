@@ -16,6 +16,7 @@ Economy and Finance
 * Vangheli, Dorina Andru, and Gheorghe Ardelean. "The ising like statistical models for studying the dynamics of the financial stock markets." arXiv preprint cond-mat/0010318 (2000).
 * Bornholdt, Stefan, and Friedrich Wagner. "Stability of money: phase transitions in an Ising economy." Physica A: Statistical Mechanics and its Applications 316.1 (2002): 453-468.
 * Sornette, Didier. "Physics and financial economics (1776–2014): puzzles, Ising and agent-based models." Reports on Progress in Physics 77.6 (2014): 062001.
+* Sornette, Didier, and Wei-Xing Zhou. "Importance of positive feedbacks and overconfidence in a self-fulfilling Ising model of financial markets." Physica A: Statistical Mechanics and its Applications 370.2 (2006): 704-726.
 
 
 Geophysics:
@@ -52,3 +53,4 @@ Casimir effects
 Complex Systems(General Things) :
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
 * del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
+* Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
