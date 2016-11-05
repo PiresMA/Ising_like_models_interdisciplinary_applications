@@ -10,6 +10,7 @@ Social applications:
 
 
 Economy and Finance
+* Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
 * Zhou, W-X., and Didier Sornette. "Self-organizing Ising model of financial markets." The European Physical Journal B 55.2 (2007): 175-181.
 * Eckrot, A., J. Jurczyk, and I. Morgenstern. "Ising model of financial markets with many assets." Physica A: Statistical Mechanics and its Applications 462 (2016): 250-254.
 * Slanina, František. "Minority Game: An “Ising Model” of Econophysics." Order, Disorder and Criticality: Advanced Problems of Phase Transition TheoryVolume 3 (2012): 201.
@@ -17,10 +18,7 @@ Economy and Finance
 * Bornholdt, Stefan, and Friedrich Wagner. "Stability of money: phase transitions in an Ising economy." Physica A: Statistical Mechanics and its Applications 316.1 (2002): 453-468.
 * Sornette, Didier. "Physics and financial economics (1776–2014): puzzles, Ising and agent-based models." Reports on Progress in Physics 77.6 (2014): 062001.
 * Sornette, Didier, and Wei-Xing Zhou. "Importance of positive feedbacks and overconfidence in a self-fulfilling Ising model of financial markets." Physica A: Statistical Mechanics and its Applications 370.2 (2006): 704-726.
-
-
-Geophysics:
-* Mariani, M. C., et al. "Ising type models applied to Geophysics and high frequency market data." Physica A: Statistical Mechanics and its Applications 390.23 (2011): 4396-4402.
+* Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
 
 
 Biology:
@@ -32,6 +30,7 @@ Biology:
 * Majewski, Jacek, Hao Li, and Jurg Ott. "The Ising model in physics and statistical genetics." The American Journal of Human Genetics 69.4 (2001): 853-862.
 * Baran, Robert H., and Hanseok Ko. "An Ising model of transcription polarity in bacterial chromosomes." Physica A: Statistical Mechanics and its Applications 362.2 (2006): 403-422.
 * Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
+* Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
 
 
 Neuroscience:
@@ -52,11 +51,16 @@ Casimir effects
 * Abraham, Douglas B., and Anna Maciołek. "Surface states and the Casimir interaction in the Ising model." EPL (Europhysics Letters) 101.2 (2013): 20006.
 
 
+Geophysics:
+* Mariani, M. C., et al. "Ising type models applied to Geophysics and high frequency market data." Physica A: Statistical Mechanics and its Applications 390.23 (2011): 4396-4402.
+
+
 Complex Systems(General Things) :
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
 * del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
 * Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
 * Suzuki, Hideyuki, Jun-ichi Imura, and Kazuyuki Aihara. "Chaotic Ising-like dynamics in traffic signals." Scientific reports 3 (2013): 1127.
+* Hooyberghs, Hans, et al. "Ising model for distribution networks." Philosophical Magazine 92.1-3 (2012): 168-191.
 
 Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
