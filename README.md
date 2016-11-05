@@ -32,6 +32,9 @@ Biology:
 * Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
 * Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
 * Schlicht, Robert, and Yoh Iwasa. "Forest gap dynamics and the Ising model." Journal of theoretical biology 230.1 (2004): 65-75.
+* Kizaki, Shinya, and Makoto Katori. "Analysis of canopy-gap structures of forests by Ising-Gibbs states-equilibrium and scaling property of real forests." Journal of the Physical Society of Japan 68.8 (1999): 2553-2560.
+* Katori, Makoto, et al. "Forest dynamics with canopy gap expansion and stochastic Ising model." Fractals 6.01 (1998): 81-86.
+* Noble, Andrew E., Jonathan Machta, and Alan Hastings. "Emergent long-range synchronization of oscillating ecological populations without external forcing described by Ising universality." Nature communications 6 (2015).
 
 Neuroscience:
 * Schaub, Michael T., and Simon R. Schultz. "The Ising decoder: reading out the activity of large neural ensembles." Journal of computational neuroscience 32.1 (2012): 101-118.
@@ -46,6 +49,15 @@ Neuroscience:
 * Haslinger, Robert, et al. "Missing mass approximations for the partition function of stimulus driven Ising models." Frontiers in computational neuroscience 7 (2013).
 
 
+Complex Systems & General Things:
+* Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
+* del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
+* Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
+* Suzuki, Hideyuki, Jun-ichi Imura, and Kazuyuki Aihara. "Chaotic Ising-like dynamics in traffic signals." Scientific reports 3 (2013): 1127.
+* Hooyberghs, Hans, et al. "Ising model for distribution networks." Philosophical Magazine 92.1-3 (2012): 168-191.
+* Băutu, Andrei, and Henri Luchian. "Particle Swarm Optimization with spanning tree representation for Ising spin glasses." IEEE Congress on Evolutionary Computation. IEEE, 2010.
+* Nisoli, Cristiano. "Nano-Ising." New Journal of Physics 18.2 (2016): 021007.
+
 Casimir effects
 * Machta, Benjamin B., Sarah L. Veatch, and James P. Sethna. "Critical Casimir forces in cellular membranes." Physical review letters 109.13 (2012): 138101.
 * Abraham, Douglas B., and Anna Maciołek. "Surface states and the Casimir interaction in the Ising model." EPL (Europhysics Letters) 101.2 (2013): 20006.
@@ -54,13 +66,6 @@ Casimir effects
 Geophysics:
 * Mariani, M. C., et al. "Ising type models applied to Geophysics and high frequency market data." Physica A: Statistical Mechanics and its Applications 390.23 (2011): 4396-4402.
 
-
-Complex Systems(General Things) :
-* Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
-* del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
-* Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
-* Suzuki, Hideyuki, Jun-ichi Imura, and Kazuyuki Aihara. "Chaotic Ising-like dynamics in traffic signals." Scientific reports 3 (2013): 1127.
-* Hooyberghs, Hans, et al. "Ising model for distribution networks." Philosophical Magazine 92.1-3 (2012): 168-191.
 
 Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
