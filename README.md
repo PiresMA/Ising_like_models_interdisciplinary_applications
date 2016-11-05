@@ -31,7 +31,7 @@ Biology:
 * Baran, Robert H., and Hanseok Ko. "An Ising model of transcription polarity in bacterial chromosomes." Physica A: Statistical Mechanics and its Applications 362.2 (2006): 403-422.
 * Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
 * Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
-
+* Schlicht, Robert, and Yoh Iwasa. "Forest gap dynamics and the Ising model." Journal of theoretical biology 230.1 (2004): 65-75.
 
 Neuroscience:
 * Schaub, Michael T., and Simon R. Schultz. "The Ising decoder: reading out the activity of large neural ensembles." Journal of computational neuroscience 32.1 (2012): 101-118.
