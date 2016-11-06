@@ -7,6 +7,10 @@ Social applications:
 * Laciana, Carlos E., and Santiago L. Rovere. "Ising-like agent-based technology diffusion model: Adoption patterns vs. seeding strategies." Physica A: Statistical Mechanics and its Applications 390.6 (2011): 1139-1149.
 * del Río, Ana Fernández. "Coupled Ising models and interdependent discrete choices under social influence in homogeneous populations." arXiv preprint arXiv:1104.4887 (2011).
 * Lee, Edward D., William Bialek, and Ned Wingreen. "Investigating Correlations in the US Supreme Court with the Ising Model." (2011).
+* Stauffer, Dietrich, and Sorin Solomon. "Ising, Schelling and self-organising segregation." The European Physical Journal B 57.4 (2007): 473-479.
+* Ódor, Géza. "Self-organizing, two-temperature Ising model describing human segregation." International journal of modern physics C 19.03 (2008): 393-398.
+* Müller, Katharina, Christian Schulze, and Dietrich Stauffer. "Inhomogeneous and self-organized temperature in Schelling-Ising model." International Journal of Modern Physics C 19.03 (2008): 385-391.
+* Sumour, M. A., M. A. Radwan, and Mohammed M. Shabat. "Highly nonlinear Ising model and social segregation." arXiv preprint arXiv:1106.5574 (2011).
 
 
 Economy and Finance
@@ -50,6 +54,7 @@ Neuroscience:
 
 
 Complex Systems & General Things:
+* Ren, Yihui, Stephen Eubank, and Madhurima Nath. "From network reliability to the Ising model: A parallel scheme for estimating the joint density of states." Physical Review E 94.4 (2016): 042125.
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
 * del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
 * Mora, Fernando, et al. "Around the Ising Model." Nonlinear Dynamics: Materials, Theory and Experiments. Springer International Publishing, 2016. 329-345.
