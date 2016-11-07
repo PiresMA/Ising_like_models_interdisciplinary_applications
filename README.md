@@ -5,12 +5,16 @@ Social applications:
 * Stauffer, Dietrich. "Social applications of two-dimensional Ising models." American Journal of Physics 76.4 (2008): 470-473.
 * Galam, Serge. "Rational group decision making: A random field Ising model at T= 0." Physica A: Statistical Mechanics and its Applications 238.1 (1997): 66-80.
 * Laciana, Carlos E., and Santiago L. Rovere. "Ising-like agent-based technology diffusion model: Adoption patterns vs. seeding strategies." Physica A: Statistical Mechanics and its Applications 390.6 (2011): 1139-1149.
+* "Ising-based model of opinion formation in a complex network of interpersonal interactions." Physica A: Statistical Mechanics and its Applications 361.2 (2006): 651-664.
+* Dasgupta, Subinay, Raj Kumar Pan, and Sitabhra Sinha. "Phase of Ising spins on modular networks analogous to social polarization." Physical Review E 80.2 (2009): 025101.
 * del Río, Ana Fernández. "Coupled Ising models and interdependent discrete choices under social influence in homogeneous populations." arXiv preprint arXiv:1104.4887 (2011).
 * Lee, Edward D., William Bialek, and Ned Wingreen. "Investigating Correlations in the US Supreme Court with the Ising Model." (2011).
+* Lucena Júnior, José Emílio de. Modelo de Ising aplicado ao estudo da criminalidade. Diss. Universidade de São Paulo.
 * Stauffer, Dietrich, and Sorin Solomon. "Ising, Schelling and self-organising segregation." The European Physical Journal B 57.4 (2007): 473-479.
 * Ódor, Géza. "Self-organizing, two-temperature Ising model describing human segregation." International journal of modern physics C 19.03 (2008): 393-398.
 * Müller, Katharina, Christian Schulze, and Dietrich Stauffer. "Inhomogeneous and self-organized temperature in Schelling-Ising model." International Journal of Modern Physics C 19.03 (2008): 385-391.
 * Sumour, M. A., M. A. Radwan, and Mohammed M. Shabat. "Highly nonlinear Ising model and social segregation." arXiv preprint arXiv:1106.5574 (2011).
+* Rahimian, Mohammad Amin, and Ali Jadbabaie. "Naive social learning in Ising networks." American Control Conference (ACC), 2016. American Automatic Control Council (AACC), 2016.
 
 
 Economy and Finance
@@ -54,6 +58,7 @@ Neuroscience:
 
 
 Complex Systems & General Things:
+* Collet, Francesca, Marco Formentin, and Daniele Tovazzi. "Rhythmic behavior in a two-population mean-field Ising model." Physical Review E 94.4 (2016): 042139.
 * Ren, Yihui, Stephen Eubank, and Madhurima Nath. "From network reliability to the Ising model: A parallel scheme for estimating the joint density of states." Physical Review E 94.4 (2016): 042125.
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
 * del Campo, Abraham Martin, Sarah Cepeda, and Caroline Uhler. "Exact goodness-of-fit testing for the Ising model." arXiv preprint arXiv:1410.1242 (2014).
@@ -63,8 +68,16 @@ Complex Systems & General Things:
 * Băutu, Andrei, and Henri Luchian. "Particle Swarm Optimization with spanning tree representation for Ising spin glasses." IEEE Congress on Evolutionary Computation. IEEE, 2010.
 * Nisoli, Cristiano. "Nano-Ising." New Journal of Physics 18.2 (2016): 021007.
 
+
+Wetting:
+* Wu, X-T., D. B. Abraham, and Joseph O. Indekeu. "Apparent first-order wetting and anomalous scaling in the two-dimensional Ising model." Physical review letters 116.4 (2016): 046101.
+* Binder, K., and D. P. Landau. "Wetting and layering in the nearest-neighbor simple-cubic Ising lattice: A Monte Carlo investigation." Physical Review B 37.4 (1988): 1745.
+* Lukas, D., E. Glazyrina, and N. Pan. "Computer simulation of liquid wetting dynamics in fiber structures using the Ising model." Journal of the Textile Institute 88.2 (1997): 149-161.
+
+
 Casimir effects
 * Machta, Benjamin B., Sarah L. Veatch, and James P. Sethna. "Critical Casimir forces in cellular membranes." Physical review letters 109.13 (2012): 138101.
+* Fukuto, Masafumi, Yohko F. Yano, and Peter S. Pershan. "Critical Casimir effect in three-dimensional Ising systems: measurements on binary wetting films." Physical review letters 94.13 (2005): 135702.
 * Abraham, Douglas B., and Anna Maciołek. "Surface states and the Casimir interaction in the Ising model." EPL (Europhysics Letters) 101.2 (2013): 20006.
 
 
@@ -74,4 +87,5 @@ Geophysics:
 
 Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
-* 
+* Hopfield neural model: Hopfield, John J. "Neural networks and physical systems with emergent collective computational abilities." Proceedings of the national academy of sciences 79.8 (1982): 2554-2558.
+
