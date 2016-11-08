@@ -15,6 +15,9 @@ Social applications:
 * Müller, Katharina, Christian Schulze, and Dietrich Stauffer. "Inhomogeneous and self-organized temperature in Schelling-Ising model." International Journal of Modern Physics C 19.03 (2008): 385-391.
 * Sumour, M. A., M. A. Radwan, and Mohammed M. Shabat. "Highly nonlinear Ising model and social segregation." arXiv preprint arXiv:1106.5574 (2011).
 * Rahimian, Mohammad Amin, and Ali Jadbabaie. "Naive social learning in Ising networks." American Control Conference (ACC), 2016. American Automatic Control Council (AACC), 2016.
+* Ishii, Mitsuru. "Analysis of the growth of social networking services based on the ising type agent model." Analysis(2016).
+* Oh, Wonseok, and Sangyong Jeon. "Membership herding and network stability in the open source community: The Ising perspective." Management science 53.7 (2007): 1086-1101.
+* Giannoccaro, Ilaria, Ilario De Vincenzo, and Giuseppe Carbone. "An Ising-based approach to the study of inter-organizational team dynamics." 2014 IEEE International Conference on Industrial Engineering and Engineering Management. IEEE, 2014.
 
 
 Economy and Finance
@@ -27,6 +30,10 @@ Economy and Finance
 * Sornette, Didier. "Physics and financial economics (1776–2014): puzzles, Ising and agent-based models." Reports on Progress in Physics 77.6 (2014): 062001.
 * Sornette, Didier, and Wei-Xing Zhou. "Importance of positive feedbacks and overconfidence in a self-fulfilling Ising model of financial markets." Physica A: Statistical Mechanics and its Applications 370.2 (2006): 704-726.
 * Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
+* Fang, Wen, and Jun Wang. "Fluctuation behaviors of financial time series by a stochastic Ising system on a Sierpinski carpet lattice." Physica A: Statistical Mechanics and Its Applications 392.18 (2013): 4055-4063.
+* Zhang, Bo, Jun Wang, and Wen Fang. "Volatility behavior of visibility graph EMD financial time series from Ising interacting system." Physica A: Statistical Mechanics and its Applications 432 (2015): 301-314.
+NBR 6023	
+* Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
 
 
 Biology:
@@ -43,6 +50,7 @@ Biology:
 * Kizaki, Shinya, and Makoto Katori. "Analysis of canopy-gap structures of forests by Ising-Gibbs states-equilibrium and scaling property of real forests." Journal of the Physical Society of Japan 68.8 (1999): 2553-2560.
 * Katori, Makoto, et al. "Forest dynamics with canopy gap expansion and stochastic Ising model." Fractals 6.01 (1998): 81-86.
 * Noble, Andrew E., Jonathan Machta, and Alan Hastings. "Emergent long-range synchronization of oscillating ecological populations without external forcing described by Ising universality." Nature communications 6 (2015).
+
 
 Neuroscience:
 * Schaub, Michael T., and Simon R. Schultz. "The Ising decoder: reading out the activity of large neural ensembles." Journal of computational neuroscience 32.1 (2012): 101-118.
@@ -88,4 +96,4 @@ Geophysics:
 Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
 * Hopfield neural model: Hopfield, John J. "Neural networks and physical systems with emergent collective computational abilities." Proceedings of the national academy of sciences 79.8 (1982): 2554-2558.
-
+* Majority-vote model: de Oliveira, Mário J. "Isotropic majority-vote model on a square lattice." Journal of Statistical Physics 66.1-2 (1992): 273-281.
