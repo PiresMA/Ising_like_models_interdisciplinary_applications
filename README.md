@@ -22,47 +22,46 @@ Social applications:
 
 Economy and Finance
 * Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
-* Zhou, W-X., and Didier Sornette. "Self-organizing Ising model of financial markets." The European Physical Journal B 55.2 (2007): 175-181.
+* Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
+* Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
 * Eckrot, A., J. Jurczyk, and I. Morgenstern. "Ising model of financial markets with many assets." Physica A: Statistical Mechanics and its Applications 462 (2016): 250-254.
+* Zhang, Bo, Jun Wang, and Wen Fang. "Volatility behavior of visibility graph EMD financial time series from Ising interacting system." Physica A: Statistical Mechanics and its Applications 432 (2015): 301-314.
 * Slanina, František. "Minority Game: An “Ising Model” of Econophysics." Order, Disorder and Criticality: Advanced Problems of Phase Transition TheoryVolume 3 (2012): 201.
 * Vangheli, Dorina Andru, and Gheorghe Ardelean. "The ising like statistical models for studying the dynamics of the financial stock markets." arXiv preprint cond-mat/0010318 (2000).
 * Bornholdt, Stefan, and Friedrich Wagner. "Stability of money: phase transitions in an Ising economy." Physica A: Statistical Mechanics and its Applications 316.1 (2002): 453-468.
 * Sornette, Didier. "Physics and financial economics (1776–2014): puzzles, Ising and agent-based models." Reports on Progress in Physics 77.6 (2014): 062001.
 * Sornette, Didier, and Wei-Xing Zhou. "Importance of positive feedbacks and overconfidence in a self-fulfilling Ising model of financial markets." Physica A: Statistical Mechanics and its Applications 370.2 (2006): 704-726.
-* Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
 * Fang, Wen, and Jun Wang. "Fluctuation behaviors of financial time series by a stochastic Ising system on a Sierpinski carpet lattice." Physica A: Statistical Mechanics and Its Applications 392.18 (2013): 4055-4063.
-* Zhang, Bo, Jun Wang, and Wen Fang. "Volatility behavior of visibility graph EMD financial time series from Ising interacting system." Physica A: Statistical Mechanics and its Applications 432 (2015): 301-314.
-NBR 6023	
-* Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
+* Zhou, W-X., and Didier Sornette. "Self-organizing Ising model of financial markets." The European Physical Journal B 55.2 (2007): 175-181.
 
 
 Biology:
 * Weber, Marc, and Javier Buceta. "The cellular Ising model: a framework for phase transitions in multicellular environments." Journal of The Royal Society Interface 13.119 (2016): 20151092.
 * Vtyurina, Natalia N., et al. "Hysteresis in DNA compaction by Dps is described by an Ising model." Proceedings of the National Academy of Sciences (2016): 201521241.
+* Noble, Andrew E., Jonathan Machta, and Alan Hastings. "Emergent long-range synchronization of oscillating ecological populations without external forcing described by Ising universality." Nature communications 6 (2015).
+* Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
+* Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
 * Muñoz, Victor. "What can we learn about protein folding from Ising-like models?." Current opinion in structural biology 11.2 (2001): 212-216.
 * Liu, Yi, and James P. Dilger. "Application of the one-and two-dimensional Ising models to studies of cooperativity between ion channels." Biophysical journal 64.1 (1993): 26.
 * Rice, John Jeremy, et al. "Ising model of cardiac thin filament activation with nearest-neighbor cooperative interactions." Biophysical journal 84.2 (2003): 897-909.
 * Majewski, Jacek, Hao Li, and Jurg Ott. "The Ising model in physics and statistical genetics." The American Journal of Human Genetics 69.4 (2001): 853-862.
 * Baran, Robert H., and Hanseok Ko. "An Ising model of transcription polarity in bacterial chromosomes." Physica A: Statistical Mechanics and its Applications 362.2 (2006): 403-422.
-* Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
-* Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
 * Schlicht, Robert, and Yoh Iwasa. "Forest gap dynamics and the Ising model." Journal of theoretical biology 230.1 (2004): 65-75.
 * Kizaki, Shinya, and Makoto Katori. "Analysis of canopy-gap structures of forests by Ising-Gibbs states-equilibrium and scaling property of real forests." Journal of the Physical Society of Japan 68.8 (1999): 2553-2560.
 * Katori, Makoto, et al. "Forest dynamics with canopy gap expansion and stochastic Ising model." Fractals 6.01 (1998): 81-86.
-* Noble, Andrew E., Jonathan Machta, and Alan Hastings. "Emergent long-range synchronization of oscillating ecological populations without external forcing described by Ising universality." Nature communications 6 (2015).
 
 
 Neuroscience:
-* Schaub, Michael T., and Simon R. Schultz. "The Ising decoder: reading out the activity of large neural ensembles." Journal of computational neuroscience 32.1 (2012): 101-118.
-* Das, T. K., et al. "Highlighting the structure-function relationship of the brain with the ising model and graph theory." BioMed research international 2014 (2014).
 * Abeyasinghe, Pubuditha M. Structure-Function Relationship of the Brain: A comparison between the 2D Classical Ising model and the Generalized Ising model. Diss. The University of Western Ontario, 2015.
-* Hertz, John A., et al. "Inferring network connectivity using kinetic Ising models." BMC Neuroscience 11.1 (2010): 1.
-* Marinazzo, Daniele, et al. "Information transfer and criticality in the ising model on the human connectome." PloS one 9.4 (2014): e93616.
 * Stramaglia, Sebastiano, et al. "Conserved Ising Model on the Human Connectome." arXiv preprint arXiv:1509.02697 (2015).
-* Tkacik, Gasper, et al. "Ising models for networks of real neurons." arXiv preprint q-bio/0611072 (2006).
-* Tkacik, Gasper, et al. "Spin glass models for a network of real neurons." arXiv preprint arXiv:0912.5409 (2009).
+* Das, T. K., et al. "Highlighting the structure-function relationship of the brain with the ising model and graph theory." BioMed research international 2014 (2014).
+* Marinazzo, Daniele, et al. "Information transfer and criticality in the ising model on the human connectome." PloS one 9.4 (2014): e93616.
 * Barton, John, and Simona Cocco. "Ising models for neural activity inferred via selective cluster expansion: structural and coding properties." Journal of Statistical Mechanics: Theory and Experiment 2013.03 (2013): P03002.
 * Haslinger, Robert, et al. "Missing mass approximations for the partition function of stimulus driven Ising models." Frontiers in computational neuroscience 7 (2013).
+* Schaub, Michael T., and Simon R. Schultz. "The Ising decoder: reading out the activity of large neural ensembles." Journal of computational neuroscience 32.1 (2012): 101-118.
+* Hertz, John A., et al. "Inferring network connectivity using kinetic Ising models." BMC Neuroscience 11.1 (2010): 1.
+* Tkacik, Gasper, et al. "Spin glass models for a network of real neurons." arXiv preprint arXiv:0912.5409 (2009).
+* Tkacik, Gasper, et al. "Ising models for networks of real neurons." arXiv preprint q-bio/0611072 (2006).
 
 
 Complex Systems & General Things:
