@@ -96,3 +96,9 @@ Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
 * Hopfield neural model: Hopfield, John J. "Neural networks and physical systems with emergent collective computational abilities." Proceedings of the national academy of sciences 79.8 (1982): 2554-2558.
 * Majority-vote model: de Oliveira, Mário J. "Isotropic majority-vote model on a square lattice." Journal of Statistical Physics 66.1-2 (1992): 273-281.
+* Glauber Model: Glauber, Roy J. "Time‐dependent statistics of the Ising model." Journal of mathematical physics 4.2 (1963): 294-307.
+
+
+History of the model:
+* Brush, Stephen G. "History of the Lenz-Ising model." Reviews of modern physics 39.4 (1967): 883.
+* Niss, Martin. "History of the Lenz-Ising model 1920–1950: from ferromagnetic to cooperative phenomena." Archive for history of exact sciences 59.3 (2005): 267-318.
