@@ -38,6 +38,7 @@ Economy and Finance
 Biology:
 * Weber, Marc, and Javier Buceta. "The cellular Ising model: a framework for phase transitions in multicellular environments." Journal of The Royal Society Interface 13.119 (2016): 20151092.
 * Vtyurina, Natalia N., et al. "Hysteresis in DNA compaction by Dps is described by an Ising model." Proceedings of the National Academy of Sciences (2016): 201521241.
+* Anna Maltsev, Victor Maltsev, Michael Stern. Clusters of calcium release channels harness the Ising phase transition to confine their elementary intracellular signals. https://arxiv.org/abs/1611.02277
 * Noble, Andrew E., Jonathan Machta, and Alan Hastings. "Emergent long-range synchronization of oscillating ecological populations without external forcing described by Ising universality." Nature communications 6 (2015).
 * Li, Xumeng, et al. "Identifying differentially expressed genes in cancer patients using a non‐parameter Ising model." Proteomics 11.19 (2011): 3845-3852.
 * Lobanov, Michail Yu, and Oxana V. Galzitskaya. "The Ising model for prediction of disordered residues from protein sequence alone." Physical biology 8.3 (2011): 035004.
