@@ -18,7 +18,7 @@ Social applications:
 * Ishii, Mitsuru. "Analysis of the growth of social networking services based on the ising type agent model." Analysis(2016).
 * Oh, Wonseok, and Sangyong Jeon. "Membership herding and network stability in the open source community: The Ising perspective." Management science 53.7 (2007): 1086-1101.
 * Giannoccaro, Ilaria, Ilario De Vincenzo, and Giuseppe Carbone. "An Ising-based approach to the study of inter-organizational team dynamics." 2014 IEEE International Conference on Industrial Engineering and Engineering Management. IEEE, 2014.
-
+* Chen, Shu-Heng, Chia-Ling Chang, and Yi-Heng Tseng. "Social networks, social interaction and macroeconomic dynamics: How much could Ernst Ising help DSGE?." Research in International Business and Finance 30 (2014): 312-335.
 
 Economy and Finance
 * Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
