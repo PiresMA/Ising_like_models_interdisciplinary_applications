@@ -1,15 +1,15 @@
 # Ising_like_models_interdisciplinary_applications
 (in progress) a list of applications of the Ising model and Ising-like models
-*01-Social dynamics: 
-*02-Economy and Finance
-*03-Biology
-*04-Neuroscience
-*05-Complex Systems & General Things
-*06-Wetting
-*07-Casimir effects
-*08-Geophysics
-*09-Models inspired by the Ising model
-*10-History of the model
+* 01-Social dynamics: 
+* 02-Economy and Finance
+* 03-Biology
+* 04-Neuroscience
+* 05-Complex Systems & General Things
+* 06-Wetting
+* 07-Casimir effects
+* 08-Geophysics
+* 09-Models inspired by the Ising model
+* 10-History of the model
 
 1-Social dynamics: 
 * Stauffer, Dietrich. "Social applications of two-dimensional Ising models." American Journal of Physics 76.4 (2008): 470-473.
