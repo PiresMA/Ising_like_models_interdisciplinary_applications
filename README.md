@@ -1,7 +1,17 @@
 # Ising_like_models_interdisciplinary_applications
 (in progress) a list of applications of the Ising model and Ising-like models
+01-Social dynamics: 
+02-Economy and Finance
+03-Biology
+04-Neuroscience
+05-Complex Systems & General Things
+06-Wetting
+07-Casimir effects
+08-Geophysics
+09-Models inspired by the Ising model
+10-History of the model
 
-Social applications: 
+1) Social dynamics: 
 * Stauffer, Dietrich. "Social applications of two-dimensional Ising models." American Journal of Physics 76.4 (2008): 470-473.
 * Galam, Serge. "Rational group decision making: A random field Ising model at T= 0." Physica A: Statistical Mechanics and its Applications 238.1 (1997): 66-80.
 * Laciana, Carlos E., and Santiago L. Rovere. "Ising-like agent-based technology diffusion model: Adoption patterns vs. seeding strategies." Physica A: Statistical Mechanics and its Applications 390.6 (2011): 1139-1149.
@@ -20,7 +30,8 @@ Social applications:
 * Giannoccaro, Ilaria, Ilario De Vincenzo, and Giuseppe Carbone. "An Ising-based approach to the study of inter-organizational team dynamics." 2014 IEEE International Conference on Industrial Engineering and Engineering Management. IEEE, 2014.
 * Chen, Shu-Heng, Chia-Ling Chang, and Yi-Heng Tseng. "Social networks, social interaction and macroeconomic dynamics: How much could Ernst Ising help DSGE?." Research in International Business and Finance 30 (2014): 312-335.
 
-Economy and Finance
+
+2) Economy and Finance
 * Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
 * Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
 * Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
@@ -35,7 +46,7 @@ Economy and Finance
 * Zhou, W-X., and Didier Sornette. "Self-organizing Ising model of financial markets." The European Physical Journal B 55.2 (2007): 175-181.
 
 
-Biology:
+3-Biology:
 * Weber, Marc, and Javier Buceta. "The cellular Ising model: a framework for phase transitions in multicellular environments." Journal of The Royal Society Interface 13.119 (2016): 20151092.
 * Vtyurina, Natalia N., et al. "Hysteresis in DNA compaction by Dps is described by an Ising model." Proceedings of the National Academy of Sciences (2016): 201521241.
 * Anna Maltsev, Victor Maltsev, Michael Stern. Clusters of calcium release channels harness the Ising phase transition to confine their elementary intracellular signals. https://arxiv.org/abs/1611.02277
@@ -52,7 +63,7 @@ Biology:
 * Katori, Makoto, et al. "Forest dynamics with canopy gap expansion and stochastic Ising model." Fractals 6.01 (1998): 81-86.
 
 
-Neuroscience:
+4-Neuroscience:
 * Abeyasinghe, Pubuditha M. Structure-Function Relationship of the Brain: A comparison between the 2D Classical Ising model and the Generalized Ising model. Diss. The University of Western Ontario, 2015.
 * Stramaglia, Sebastiano, et al. "Conserved Ising Model on the Human Connectome." arXiv preprint arXiv:1509.02697 (2015).
 * Das, T. K., et al. "Highlighting the structure-function relationship of the brain with the ising model and graph theory." BioMed research international 2014 (2014).
@@ -65,7 +76,7 @@ Neuroscience:
 * Tkacik, Gasper, et al. "Ising models for networks of real neurons." arXiv preprint q-bio/0611072 (2006).
 
 
-Complex Systems & General Things:
+5-Complex Systems & General Things:
 * Collet, Francesca, Marco Formentin, and Daniele Tovazzi. "Rhythmic behavior in a two-population mean-field Ising model." Physical Review E 94.4 (2016): 042139.
 * Ren, Yihui, Stephen Eubank, and Madhurima Nath. "From network reliability to the Ising model: A parallel scheme for estimating the joint density of states." Physical Review E 94.4 (2016): 042125.
 * Morales, Irving O., et al. "Behavior of early warnings near the critical temperature in the two-dimensional Ising model." PloS one 10.6 (2015): e0130751.
@@ -77,29 +88,29 @@ Complex Systems & General Things:
 * Nisoli, Cristiano. "Nano-Ising." New Journal of Physics 18.2 (2016): 021007.
 
 
-Wetting:
+6-Wetting:
 * Wu, X-T., D. B. Abraham, and Joseph O. Indekeu. "Apparent first-order wetting and anomalous scaling in the two-dimensional Ising model." Physical review letters 116.4 (2016): 046101.
 * Binder, K., and D. P. Landau. "Wetting and layering in the nearest-neighbor simple-cubic Ising lattice: A Monte Carlo investigation." Physical Review B 37.4 (1988): 1745.
 * Lukas, D., E. Glazyrina, and N. Pan. "Computer simulation of liquid wetting dynamics in fiber structures using the Ising model." Journal of the Textile Institute 88.2 (1997): 149-161.
 
 
-Casimir effects
+7-Casimir effects
 * Machta, Benjamin B., Sarah L. Veatch, and James P. Sethna. "Critical Casimir forces in cellular membranes." Physical review letters 109.13 (2012): 138101.
 * Fukuto, Masafumi, Yohko F. Yano, and Peter S. Pershan. "Critical Casimir effect in three-dimensional Ising systems: measurements on binary wetting films." Physical review letters 94.13 (2005): 135702.
 * Abraham, Douglas B., and Anna Maciołek. "Surface states and the Casimir interaction in the Ising model." EPL (Europhysics Letters) 101.2 (2013): 20006.
 
 
-Geophysics:
+8-Geophysics:
 * Mariani, M. C., et al. "Ising type models applied to Geophysics and high frequency market data." Physica A: Statistical Mechanics and its Applications 390.23 (2011): 4396-4402.
 
 
-Models inspired by the Ising model
+9-Models inspired by the Ising model
 * Sznajd social model: Sznajd-Weron, Katarzyna, and Jozef Sznajd. "Opinion evolution in closed community." International Journal of Modern Physics C 11.06 (2000): 1157-1165.
 * Hopfield neural model: Hopfield, John J. "Neural networks and physical systems with emergent collective computational abilities." Proceedings of the national academy of sciences 79.8 (1982): 2554-2558.
 * Majority-vote model: de Oliveira, Mário J. "Isotropic majority-vote model on a square lattice." Journal of Statistical Physics 66.1-2 (1992): 273-281.
 * Glauber Model: Glauber, Roy J. "Time‐dependent statistics of the Ising model." Journal of mathematical physics 4.2 (1963): 294-307.
 
 
-History of the model:
+10-History of the model:
 * Brush, Stephen G. "History of the Lenz-Ising model." Reviews of modern physics 39.4 (1967): 883.
 * Niss, Martin. "History of the Lenz-Ising model 1920–1950: from ferromagnetic to cooperative phenomena." Archive for history of exact sciences 59.3 (2005): 267-318.
