@@ -1,17 +1,17 @@
 # Ising_like_models_interdisciplinary_applications
 (in progress) a list of applications of the Ising model and Ising-like models
-01-Social dynamics: 
-02-Economy and Finance
-03-Biology
-04-Neuroscience
-05-Complex Systems & General Things
-06-Wetting
-07-Casimir effects
-08-Geophysics
-09-Models inspired by the Ising model
-10-History of the model
+*01-Social dynamics: 
+*02-Economy and Finance
+*03-Biology
+*04-Neuroscience
+*05-Complex Systems & General Things
+*06-Wetting
+*07-Casimir effects
+*08-Geophysics
+*09-Models inspired by the Ising model
+*10-History of the model
 
-1) Social dynamics: 
+1-Social dynamics: 
 * Stauffer, Dietrich. "Social applications of two-dimensional Ising models." American Journal of Physics 76.4 (2008): 470-473.
 * Galam, Serge. "Rational group decision making: A random field Ising model at T= 0." Physica A: Statistical Mechanics and its Applications 238.1 (1997): 66-80.
 * Laciana, Carlos E., and Santiago L. Rovere. "Ising-like agent-based technology diffusion model: Adoption patterns vs. seeding strategies." Physica A: Statistical Mechanics and its Applications 390.6 (2011): 1139-1149.
@@ -31,7 +31,7 @@
 * Chen, Shu-Heng, Chia-Ling Chang, and Yi-Heng Tseng. "Social networks, social interaction and macroeconomic dynamics: How much could Ernst Ising help DSGE?." Research in International Business and Finance 30 (2014): 312-335.
 
 
-2) Economy and Finance
+2-Economy and Finance
 * Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
 * Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
 * Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
