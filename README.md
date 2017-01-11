@@ -32,6 +32,7 @@
 
 
 2-Economy and Finance
+* Xin, C., G. Yang, and J. P. Huang. "Ising game: Nonequilibrium steady states of resource-allocation systems." Physica A: Statistical Mechanics and its Applications (2016).
 * Ko, Bonggyun, Jae Wook Song, and Woojin Chang. "Simulation of financial market via nonlinear Ising model." International Journal of Modern Physics C 27.04 (2016): 1650038.
 * Fang, Wen, et al. "Linking market interaction intensity of 3D Ising type financial model with market volatility." Physica A: Statistical Mechanics and its Applications (2016).
 * Horvath, Philip A., Kelly R. Roos, and Amit Sinha. "An Ising spin state explanation for financial asset allocation." Physica A: Statistical Mechanics and its Applications 445 (2016): 112-116.
