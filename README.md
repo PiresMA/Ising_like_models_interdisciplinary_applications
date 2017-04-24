@@ -115,3 +115,4 @@
 10-History of the model:
 * Brush, Stephen G. "History of the Lenz-Ising model." Reviews of modern physics 39.4 (1967): 883.
 * Niss, Martin. "History of the Lenz-Ising model 1920–1950: from ferromagnetic to cooperative phenomena." Archive for history of exact sciences 59.3 (2005): 267-318.
+* Kochmanski, Martin S. "NOTE ON THE E. ISING’S PAPER, BEITRAG ZUR THEORIE DES FERROMAGNETISMUS”."
